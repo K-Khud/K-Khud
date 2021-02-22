@@ -17,7 +17,7 @@ It's a convenient yet stylish and responsive note taking tool.<br/>
 The idea is to use notepad in poster design style, i.e. to limit user’s choice for styling the text blocks with the predefined styles.<br/>
 Our team is consist of three people: UI designer, product manager and myself as a developer.<br/>
 Almost every UI element in the app is customized: it includes transition animations, button actions animations, blurs.<br/>
-Have a look at the demo!<br/>
+Please have a look at the demo!<br/>
 | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Notes0.png" width=140> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Notes1.png" width=140> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Notes2.png" width=140> |<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=280> |
 |:---:|:---:|:---:|:---:|
 
