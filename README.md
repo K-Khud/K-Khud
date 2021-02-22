@@ -1,15 +1,11 @@
 ### Hi, I'm Katia.
 I'm a self-taught iOS Developer with a Product Management background in Electrical Engineering. 
-I'm from Siberia :bear:
+I'm from Siberia.
 
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=60>
 My toolbox includes: 
 UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphics, Firebase. 
 Cocoa Design patterns: MVC, Singleton, Delegate, KVO.
-
-### Languages & Platforms
-|<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/swift.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/xcode.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/github.png" width=60> | 
-|:---:|:---:|:---:|
 
 ### My projects
 
@@ -23,12 +19,13 @@ Have a look at the demo!
   <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=300>
   <br><br>
 </p>
-
-<p align="left">
+### Languages & Platforms
+|<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/swift.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/xcode.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/github.png" width=60> | 
+|:---:|:---:|:---:|
+<br><br>
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=50> 
 Func fact: I own a car that is older than myself.
-</p>
-<br><br>
+<br>
 Contact me: 
 <br/><br/>
 <a href="katerina.koreneva@gmail.com">
