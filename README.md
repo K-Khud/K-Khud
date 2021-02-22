@@ -5,3 +5,6 @@
 - 🌱 Some of the concepts and frameworks I’ve used in the recent projects: UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphics, Firebase, Cocoa Design patterns: MVC, Singleton, Delegate, KVO.
 - 📫 How to reach me: https://www.linkedin.com/in/ekaterina-khudzhamkulova-00094315b/
 - ⚡ Fun fact: I own a car that is older than myself.
+
+
+Icons by https://icons8.com.
