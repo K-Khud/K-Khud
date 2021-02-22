@@ -23,8 +23,8 @@ Have a look at the demo!
 </p>
 
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=50> 
-<h4>Fun fact</h4>
-<div style="font-size:.7em;width:160px;float:left;">I own a car that is older than myself.</div>
+<h5>Fun fact</h5>
+I own a car that is older than myself.
 
 <br><br>
 Contact me: 
