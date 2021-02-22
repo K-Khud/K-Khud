@@ -8,15 +8,16 @@ UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphic
 Cocoa Design patterns: MVC, Singleton, Delegate, KVO.  
 
 ## Projects
-### Notepad App
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=60>  
+
+### Notepad App
 
 My favorite project is the one I’m currently working on.<br/>
 It's a convenient yet stylish and responsive note taking tool.<br/>
 The idea is to use notepad in poster design style, i.e. to limit user’s choice for styling the text blocks with the predefined styles.<br/>
 Our team is consist of three people: UI designer, product manager and myself as a developer.<br/>
 Almost every UI element in the app is customized in terms of performance and behaviour: it includes transition animations, button actions animations, blurs.<br/>
-Have a look at the demo!
+Have a look at the demo!<br/>
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=300>
 <br>
 
