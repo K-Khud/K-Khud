@@ -19,13 +19,17 @@ Have a look at the demo!
   <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=300>
   <br><br>
 </p>
+
 ### Languages & Platforms
 |<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/swift.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/xcode.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/github.png" width=60> | 
 |:---:|:---:|:---:|
-<br><br>
+
+<p align="left">
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=50> 
-Func fact: I own a car that is older than myself.
-<br>
+Fun fact: I own a car that is older than myself.
+<br><br>
+</p>
+
 Contact me: 
 <br/><br/>
 <a href="katerina.koreneva@gmail.com">
