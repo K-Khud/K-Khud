@@ -52,5 +52,5 @@ It's a catalogue of heroes, comics and creators that is received from Marvel's A
 <br/><br/>
 
 <p align="right">
-Icons by [Icon8](https://icons8.com)
+Icons by https://icons8.com
 </p>
