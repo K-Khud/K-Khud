@@ -1,18 +1,29 @@
 ### Hi, I'm Katia.
 
-I’m currently working on an MVP of a Notepad App. It's a convenient yet stylish and responsive note taking tool. The idea is to use notepad in poster design style, i.e. to limit user’s choice for styling the text blocks with the predefined styles. Our team is consist of three people: UI designer, product manager and myself as a developer. Almost every UI element in the app is customized in terms of performance and behaviour: it includes transition animations, button actions animations, blurs etc.
-<p align="center">
-  <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=100>
-  <br><br>
-</p>
+<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=30>
+My toolbox includes: 
+UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphics, Firebase. 
+Cocoa Design patterns: MVC, Singleton, Delegate, KVO.
 
-Some of the concepts and frameworks I’ve used in the recent projects: UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphics, Firebase, Cocoa Design patterns: MVC, Singleton, Delegate, KVO.
-
-### Languages  & Tools
+### Languages & Platforms
 |<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/swift.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/xcode.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/github.png" width=60> | 
 |:---:|:---:|:---:|
 
-<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=30> Fun fact: I own a car that is older than myself. 
+### My projects
+
+My favorite project is the one I’m currently working on. It's an MVP of a Notepad App.
+It's a convenient yet stylish and responsive note taking tool. 
+The idea is to use notepad in poster design style, i.e. to limit user’s choice for styling the text blocks with the predefined styles. 
+Our team is consist of three people: UI designer, product manager and myself as a developer. 
+Almost every UI element in the app is customized in terms of performance and behaviour: it includes transition animations, button actions animations, blurs. 
+Have a look at the demo!
+<p align="left">
+  <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=300>
+  <br><br>
+</p>
+
+<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=30> 
+Fun fact: I own a car that is older than myself.
 
 Contact me: 
 
