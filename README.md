@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I own a car that is older than myself.
 
 
-Icons by ![Icon8](https://icons8.com)
+Icons by [Icon8](https://icons8.com)
