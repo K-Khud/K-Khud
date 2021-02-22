@@ -8,7 +8,7 @@ UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphic
 Cocoa Design patterns: MVC, Singleton, Delegate, KVO.  
 
 ## Projects
-<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=60>  
+<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=50>  
 
 ### Notepad App
 
