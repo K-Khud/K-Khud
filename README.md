@@ -1,6 +1,6 @@
 ### Hi, I'm Katia.
 
-<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=30>
+<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=60>
 My toolbox includes: 
 UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphics, Firebase. 
 Cocoa Design patterns: MVC, Singleton, Delegate, KVO.
@@ -22,9 +22,9 @@ Have a look at the demo!
   <br><br>
 </p>
 
-<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=30> 
+<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=40> 
 Fun fact: I own a car that is older than myself.
-
+<br><br>
 Contact me: 
 
 <a href="katerina.koreneva@gmail.com">
