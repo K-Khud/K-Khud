@@ -37,8 +37,8 @@ It's a catalogue of heroes, comics and creators that is received from Marvel's A
 |<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/swift.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/xcode.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/github.png" width=60> | 
 |:---:|:---:|:---:|
 
-<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=50> 
-Fun fact: I own a car that is older than myself.<br/>
+|<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=50>|Fun fact: I own a car that is older than myself.|
+|:---:|:---:|
 
 ### Contact me
 <a href="katerina.koreneva@gmail.com">
