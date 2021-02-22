@@ -1,11 +1,20 @@
 # Hi, I'm Katia.
+<p align="left">
 I'm a self-taught iOS Developer with a Product Management background in Electrical Engineering. 
+</p>
+<p align="left">
 I'm from Siberia, currentrly live in Helsinki.
+<br><br>
+</p>
 
 ### My toolbox
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=60>
 UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphics, Firebase. 
+</p>
+<p align="left">
 Cocoa Design patterns: MVC, Singleton, Delegate, KVO.
+<br><br>
+</p>
 
 ### My projects
 
