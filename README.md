@@ -35,7 +35,6 @@ Fun fact: I own a car that is older than myself.<br/>
 <br>
 
 ### Contact me
-<br/>
 <a href="katerina.koreneva@gmail.com">
   <img align="left" alt="Katia Khudzhamkulova" width="30px" src="https://github.com/K-Khud/K-Khud/blob/main/Images/mail.png" />
 </a>
