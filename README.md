@@ -21,11 +21,12 @@ Have a look at the demo!
   <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=300>
   <br><br>
 </p>
-
+<p align="left">
+<samp>
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/car.png" width=50> 
-<h5>Fun fact</h5>
-I own a car that is older than myself.
-
+Func fact: I own a car that is older than myself.
+</samp>
+</p>
 <br><br>
 Contact me: 
 <br/><br/>
