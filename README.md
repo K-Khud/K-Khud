@@ -28,6 +28,12 @@ All cool features are implemented: JSON parsing, error handling, local cache wit
 |<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen1.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen2.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen3.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen4.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen5.png" width=130> | 
 |:---:|:---:|:---:|:---:|:---:|
 
+### [Marvel Heroes App](https://github.com/K-Khud/Marvel)
+Another project where I was flexing my muscles in working with REST-ful APIs and building UI programmaticaly.<br/>
+It's a catalogue of heroes, comics and creators that is received from Marvel's API.
+|<img src="https://github.com/K-Khud/Marvel/blob/master/1.png" width=130> | <img src="https://github.com/K-Khud/Marvel/blob/master/2.png" width=130> | <img src="https://github.com/K-Khud/Marvel/blob/master/3.png" width=130> | <img src="https://github.com/K-Khud/Marvel/blob/master/4.png" width=130> | <img src="https://github.com/K-Khud/Marvel/blob/master/6.png" width=130> | 
+|:---:|:---:|:---:|:---:|:---:|
+
 ### Languages and Platforms
 |<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/swift.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/xcode.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/github.png" width=60> | 
 |:---:|:---:|:---:|
