@@ -18,8 +18,8 @@ The idea is to use notepad in poster design style, i.e. to limit user’s choice
 Our team is consist of three people: UI designer, product manager and myself as a developer.<br/>
 Almost every UI element in the app is customized in terms of performance and behaviour: it includes transition animations, button actions animations, blurs.<br/>
 Have a look at the demo!<br/>
-|<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=280> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Notes1.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Notes2.png" width=130> |
-|:---:|:---:|:---:|
+| <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Notes0.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Notes1.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Notes2.png" width=130> |<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/MVP-1.gif" width=280> |
+|:---:|:---:|:---:|:---:|
 
 ### [Warehouse App](https://github.com/K-Khud/JuniorTestAssignment)
 I've used a test asignment for web-developers to build a mobile app, that displays information about the products and availability.<br/>
