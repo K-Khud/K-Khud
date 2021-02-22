@@ -26,7 +26,7 @@ Have a look at the demo!<br/>
 I've used a test asignment for web-developers to build a mobile app, that displays information about the products and availability.<br/>
 All cool features are implemented: JSON parsing, error handling, local cache with the Core Data, and searching the product by it's name.<br/>
 <br>
-|<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen1.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen2.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen3.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen4.png" width=60> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen5.png" width=60> | 
+|<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen1.png" width=100> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen2.png" width=100> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen3.png" width=100> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen4.png" width=100> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen5.png" width=100> | 
 |:---:|:---:|:---:|:---:|:---:|
 
 ### Languages and Platforms
