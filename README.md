@@ -5,7 +5,8 @@ I'm from Siberia, currently live in Helsinki.
 ### My toolbox
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=60>  
 UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphics, Firebase.<br/>
-Cocoa Design patterns: MVC, Singleton, Delegate, KVO.  
+Cocoa Design patterns: MVC, Singleton, Delegate, KVO. <br/>
+I'm also exploring SwiftUI.
 
 ## Projects
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=50>  
