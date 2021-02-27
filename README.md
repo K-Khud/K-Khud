@@ -24,7 +24,8 @@ Please have a look at the demo!<br/>
 
 ### [Warehouse App](https://github.com/K-Khud/JuniorTestAssignment)
 I've used a test asignment for web-developers to build a mobile app, that displays information about the products and availability.<br/>
-All cool features are implemented: JSON parsing, error handling, local cache with the Core Data, and searching the product by it's name.<br/>
+All cool features are implemented: JSON parsing, error handling, local cache with the Core Data, SwiftUI together with UIKit, and searching the product by it's name.<br/>
+This project illustrates the case of SwiftUI interfacing UIKit, which I personally find very interesting.<br/>
 |<img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen1.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen2.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen3.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen4.png" width=130> | <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/Screen5.png" width=130> | 
 |:---:|:---:|:---:|:---:|:---:|
 
