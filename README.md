@@ -10,6 +10,13 @@ Cocoa Design patterns: MVC, MVVM, VIP, SOA. <br/>
 ## Projects
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=50>  
 
+### ArtCatalogue App
+
+SwiftUI app with Widget.<br/>
+Access data through The Art Institute of Chicago API. Networking Layer is generated with the use of OpenApi code gen.<br/>
+SOA<br/>
+Combine, SwiftUI, Realm, OpenAPI.<br/>
+
 ### Notepad App
 
 It's a convenient yet stylish and responsive note taking tool.<br/>
