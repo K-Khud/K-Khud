@@ -4,16 +4,14 @@ I'm from Siberia, currently live in Helsinki.
 
 ### My toolbox
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=60>  
-UIKit, AutoLayout, REST-ful APIs, Core Data, Realm, Core Animation, Core Graphics, Firebase.<br/>
-Cocoa Design patterns: MVC, Singleton, Delegate, KVO. <br/>
-I'm also exploring SwiftUI.
+SwiftUI, UIKit, AutoLayout, REST-ful APIs, OpenAPI, Swagger, Core Data, Realm, Core Animation, Core Graphics, Firebase.<br/>
+Cocoa Design patterns: MVC, MVVM, VIP, SOA. <br/>
 
 ## Projects
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=50>  
 
 ### Notepad App
 
-My favorite project is the one I’m currently working on.<br/>
 It's a convenient yet stylish and responsive note taking tool.<br/>
 The idea is to use notepad in poster design style, i.e. to limit user’s choice for styling the text blocks with the predefined styles.<br/>
 Our team is consist of three people: UI/UX designer, product manager and myself as a developer.<br/>
