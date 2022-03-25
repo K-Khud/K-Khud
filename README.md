@@ -14,7 +14,8 @@ Cocoa Design patterns: MVC, MVVM, VIP, SOA. <br/>
 
 SwiftUI app with Widget.<br/>
 Access data through The Art Institute of Chicago API. Networking Layer is generated with the use of OpenApi code gen.<br/>
-SOA<br/>
+Caching with Realm and with writing data into file.<br/>
+SOA.<br/>
 Combine, SwiftUI, Realm, OpenAPI.<br/>
 
 ### Notepad App
