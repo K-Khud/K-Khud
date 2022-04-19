@@ -10,7 +10,7 @@ Cocoa Design patterns: MVC, MVVM, VIP, SOA. <br/>
 ## Projects
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=50>  
 
-### ArtCatalogue App
+### [ArtCatalogue App](https://github.com/K-Khud/ArtCatalogue)
 
 SwiftUI app with Widget.<br/>
 Access data through The Art Institute of Chicago API. Networking Layer is generated with the use of OpenApi code gen.<br/>
