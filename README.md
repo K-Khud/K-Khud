@@ -1,6 +1,6 @@
 # Hi, I'm Katia.
 I'm a self-taught iOS Developer with a Product Management background in Electrical Engineering.<br/>
-I'm from Siberia, currently live in Helsinki.  
+I'm from Siberia, currently live in Aix-en-Provence.  
 
 ### My toolbox
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=60>  
