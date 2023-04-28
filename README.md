@@ -1,11 +1,11 @@
 # Hi, I'm Katia.
-I'm a self-taught iOS Developer with a Product Management background in Electrical Engineering.<br/>
+I'm a iOS Developer with a Product Management background in Electrical Engineering.<br/>
 I'm from Siberia, currently live in Aix-en-Provence.  
 
 ### My toolbox
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/hand-tools.png" width=60>  
-SwiftUI, UIKit, AutoLayout, REST-ful APIs, OpenAPI, Swagger, Core Data, Realm, Core Animation, Core Graphics, Firebase.<br/>
-Cocoa Design patterns: MVC, MVVM, VIP, SOA. <br/>
+SwiftUI, UIKit, CoreBluetooth, RxSwift, HealthKit, MapKit, Mapbox, Combine, REST-ful APIs, OpenAPI, Swagger, Core Data, Realm, Core Animation, Core Graphics, Firebase.<br/>
+Design patterns: MVC, MVVM, VIP, SOA, MV, MVS. <br/>
 
 ## Projects
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=50>  
