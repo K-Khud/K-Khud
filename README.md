@@ -7,7 +7,7 @@ I'm from Siberia, currently live in Aix-en-Provence.
 SwiftUI, UIKit, CoreBluetooth, RxSwift, HealthKit, MapKit, Mapbox, Combine, REST-ful APIs, OpenAPI, Swagger, Core Data, Realm, Core Animation, Core Graphics, Firebase.<br/>
 Design patterns: MVC, MVVM, VIP, SOA, MV, MVS. <br/>
 
-## Projects
+## Some Pet Projects
 <img src="https://github.com/K-Khud/K-Khud/blob/main/Images/developer.png" width=50>  
 
 ### [ArtCatalogue App](https://github.com/K-Khud/ArtCatalogue)
