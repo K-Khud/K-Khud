@@ -51,7 +51,7 @@ It's a catalogue of heroes, comics and creators that is received from Marvel's A
 <a href="katerina.koreneva@gmail.com">
   <img align="left" alt="Katia Khudzhamkulova" width="30px" src="https://github.com/K-Khud/K-Khud/blob/main/Images/mail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ekaterina-khudzhamkulova-00094315b/">
+<a href="https://www.linkedin.com/in/katia-khudzhamkulova-00094315b/">
   <img align="left" alt="Katia Khudzhamkulova" width="30px" src="https://github.com/K-Khud/K-Khud/blob/main/Images/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/katia_hood/">
